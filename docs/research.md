@@ -79,28 +79,109 @@ An enhanced experience needs to be conveyed at all points of interaction. A lot 
 
 
 # Competitor Analysis
-Some text explaingin
+By examining competing products, we'll be able to identify missed opportunities in the marketplace. While some platforms have similar products, their message focuses on something entirely different from ours -- building meaningful connections. Noting each platforms' successes and failures will help us create a more refined final product.
 
 ### Facebook
+Provides many different services such as finding a job, donating to causes, and finding a date. Huge revenue from advertising and selling pieces of their platform.
+- 68% of Americans use Facebook; spending about 58 minutes per day with each individual visit lasting 10 or 12 minutes
+- **Large distrust from public**
+
 ### Google+
+Google+ failed for many reasons, the ultimate one most relevant to us:  
+Their **asymmetric following system** where A could follow B, but B did not have to agree or follow A back did not help the community that they were trying to build
+
+>“This unidirectional model is actually a poor choice for a close-ties network because close-ties relationships depend on frequent bidirectional communication.”
+
 ### Twitter
+- A platform where you can “tweet” out a text post or image/video.
+- Most activity takes place in a feed of everyone tweets where the user scrolls through and can like, retweet and comment on tweets.
+
+Pluto is going to be the opposite of Twitter; rather than having every interaction be shown to the public, our focus is going to be small, private meaningful connections.
+
 ### Instagram
+- Instagram allows you to take ordinary photos and make them look extraordinary- originating the concept of using “filters”.
+- Very superficial with seemingly **high barriers for posting content**. 
+- People don’t want to read long texts so they are more interested in watching **videos and pictures**.
+
+Interestingly, most people poll with having very little privacy concerns while using Instagram as opposed to facebook.
+
 ### Tumblr
+- A blogging platform where people can make their own blog as well as view a feed of blog posts from blogs they follow.
+- One of Tumblrs strengths is the **tagging system** which makes it really easy and fun to view blogs that you are interested in.
+- The ability to customize the appearance of your own blog gives users a **sense of individuality** and creates a space where they can truly **express themselves**.
+
 ### Snapchat
+- Snapchat’s variety of **one-on-one interaction** is definitely something we want to draw from. The various visual filters and other **gamifactions** are definitely something that we will keep in mind.
+- Snapchat opens directly to the camera screen, putting an emphasis on the various filters and eye candy and promoting constant and easy interaction.
+- **Stories** are also a really fun way to keep up with what your friends are up to -- we might want to adopt a similar function.
+
+Invisible incentive of automatically deleting pictures sent after opening puts engagement pressure on the users.
+
 ### YouTube
+- A platform where you can make your own video channel and subscribe to others
+- **Heavily based on an algorithm** that shows users what they are interested in.
+- Youtube is very different from Pluto, and probably won’t have any major similarities. The UI is content-focused but in a very standard way which we want to break away from.
+
 ### TikTok
+- Instagram/Vine concept of **short form video** > Music.ly > Tik Tok
+- Feature rich with thousands of ways to edit and create video content, expanding so much more on the original ‘Music.ly’ format.
+- **Extremely detailed security settings, fine tuning privacy and browsing limitation**
+
 ### Discord
+- Intention was to create as minimal friction as possible; trying to make a seamless interface that wouldn’t remove the user from their game
+- Greatest achievement was effectively **enhancing and connecting social spaces** (or hybridized third space) for the gamer
+- All participants **preferred to perform tasks directly from the server screen, spending the most time interacting directly with people**
+- Recently breaking into the business communication space
+
 ### Vero
+- 4 different levels of sharing content. (close friend, friend, acquaintance, everyone)
+- 6 different content types to post (camera, link, music, movie/tv, book, place)
+- Recommendations from other people they're **connected to instead of algorithms**
+- Personal library called "Collections" where you can search everything that's been shared with you
+- Shopping w/o leaving feed
+- Donations
+
+At first they were going to implement a subscription model after 5 million sign ups however they still haven't because there were technical difficulties once there was a boom in registration.
+
+Right now, Vero looks like **one of our biggest competitors**. One thing that we’ll have to think more about is our terms of service that many users were concerned about and were discouraged from signing up for Vero.
+
+
 ### MeWe
+- Similar to other social media platforms
+- Different model for monetization to subsidize for not having ads
+- Feed is separated into 3 categories: contacts, groups, pages. 
+- **Mixed reviews of whether or not people really trust their promise of privacy**
+
 ### Minds
-### Steemit
+-  A distributed social networking service that rewards contributors with tokens on the Ethereum blockchain.
+- Focused on freedom of speech, privacy, security
+- Opinion: emphasis on message of freedom of speech **distracts from functionality of the platform**
 
 # Screener Survey
+A screener survey has multiple purposes:
+1. High-level idea validation
+2. Finding target users to interview
+3. Collect preliminary data
+
+Our first screener survey, titled "Measuring User Interest in Social Media", was sent out over a peroid of five days and collected 250 responses. Here were our most significant takeaways:
+- 98% use social media on their iPhone or Android phone (**mobile first!**)
+- **80% use social media to connect with close friends and family, but 57% of people feel their connections on social media aren’t meaningful**
+- 70% feel having a social media account makes you **‘public’**
+- 65% feel current networks **don’t value their privacy**
+- 20% feel they would consider **paying for social media**
 
 # First Survey
+Our first big survey is in the works and will be sent out in the next week.
 
+# Interviews
+Interview scripts are ready to go and the process for scheduling interviews (based off of respondents from the screener survey) is underway.
 
 # I like / I want / What if
+Session guide is ready and the first IL/IW/WI session is planned for Friday, November 15th with 11 participants.
 
-# User Research Methodologies
+# A/B Testing
+During the interface design process, we'll use A/B testing of existing interfaces to judge the best approach to our design.
+
+# Desirability Survey
+Once our designs are ready, we'll be able to test how effective our interface is at evoking our desired emotions (meaningful, closeness, secure, etc.) through this desirability survey.
 
