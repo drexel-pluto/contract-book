@@ -30,8 +30,6 @@ After you've written code for a new feature on your local machine, you'll want t
     - `git push origin Encrypts-Newly-Created-Passwords`
 5. Create a pull request to the repository, specifying that you'd like to merge your `Encrypts-Newly-Created-Passwords` branch onto the master
 
-# Front-End Development
-
 # Back-End Development
 
 ### Useful Links
