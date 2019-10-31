@@ -7,7 +7,7 @@ The idea of a contract book came from the 6th Edition of _Product Design and Dev
 
 # Who are we?
 
-Pluto will be developed by six members of the Interactive Digital Media program at Drexel University for senior project. While we're all involved in every part of the process, each member has a specialty and will guide the rest of the team through that piece:
+Pluto will be developed by six members of the Interactive Digital Media program at Drexel University as our senior capstone project. While we're all involved in every part of the process, each member has a specialty and will guide the rest of the team through that piece:
 
 - Sarah Bray, Project Management
 - Clay Tercek, Front-end Development
@@ -30,4 +30,4 @@ society and new media theory.
 
 Pluto will be advised by the Program Director of the Interactive Digital Media program, Troy Finamore. Throughout the three terms, meetings between Pluto and Troy Finamore will take place at least once per week.
 
-Rob Lloyd, the Director of senior project, will also be advising the creation of Pluto, meeting at least once per week.
+Rob Lloyd, the Director of Senior Project, will also be advising the creation of Pluto, meeting at least once per week.

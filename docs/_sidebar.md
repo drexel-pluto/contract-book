@@ -3,7 +3,7 @@
 * [Product]()
 * [Resources](resources.md)
 * [Research]()
-* [Process]()
+* [Process](process.md)
 * [Timeline](timeline.md)
 * [Questions](questions.md)
 * [Contact]()
