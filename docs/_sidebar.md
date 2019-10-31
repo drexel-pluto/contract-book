@@ -1,2 +1,5 @@
 * [Home](/)
 * [Overview](overview.md)
+* [Resources](resources.md)
+* [Timeline](timeline.md)
+* [Questions](questions.md)
