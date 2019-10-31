@@ -3,7 +3,7 @@
 Welcome to the contract book for Pluto! This document will serve as an outline of the project, including plans, goals, ongoing work, finished work, and more. The team plans on updating this document as the process continues.
 
 The idea of a contract book came from the 6th Edition of _Product Design and Development_, written by Karl Ulrich and Steven Eppinger. As stated in the book:
-> a contract book [should] be used to document the project plan and the results of the concept development phase of the development process. ... the document represents an agreement between the development team and the senior management of the company about project goals, direction, and resource requirements.
+> A contract book [should] be used to document the project plan and the results of the concept development phase of the development process. [...] The document represents an agreement between the development team and the senior management of the company about project goals, direction, and resource requirements.
 
 # Who are we?
 
