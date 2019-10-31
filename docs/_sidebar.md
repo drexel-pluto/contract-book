@@ -1,6 +1,5 @@
 * [Introduction](/)
 * [Overview](overview.md)
-* [Product]()
 * [Resources](resources.md)
 * [Research](research.md)
 * [Process](process.md)
