@@ -13,6 +13,7 @@ From here, we can target those features that have the most impact and require th
 
 # Wireframes
 Throughout the term, we constantly iterated on our ideas for the main features, such as grouping friends and posting options, with wireframes. The goal of wireframing was to help us brainstorm for new and fresh solutions to our unique concepts in creating the tailor-fit environment for our users to connect and share with their friends.
+![wireframe2](_media/wireframes3.png)*Screen wireframes*
 ![wireframe1](_media/pluto-prototype_v03.gif)*Group interaction prototype*
 
 # Information Architecture
