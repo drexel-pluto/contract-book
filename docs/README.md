@@ -9,12 +9,18 @@ The idea of a contract book came from the 6th Edition of _Product Design and Dev
 
 Pluto will be developed by six members of the Interactive Digital Media program at Drexel University as our senior capstone project. While we're all involved in every part of the process, each member has a specialty and will guide the rest of the team through that piece:
 
-- Sarah Bray, Project Management
-- Clay Tercek, Front-end Development
-- Mike Carbone, Back-end Development
-- Woo Song, Design Technology
-- Veronica Lin, User Experience Design
-- Robert Nashed, User Interface Design
+- **Sarah Bray**, Project Management
+![sarah](_media/sarah2.png)
+- **Clay Tercek**, Front-end Development
+![clay](_media/clay2.png)
+- **Mike Carbone**, Back-end Development
+![mike](_media/mike2.png)
+- **Woo Song**, Design Technology
+![woo](_media/woo2.png)
+- **Veronica Lin**, User Experience Design
+![veronica](_media/veronica2.png)
+- **Robert Nashed**, User Interface Design
+![rob](_media/rob2.png)
 
 Separately, we've previously worked on [award-winning](http://digm.drexel.edu/idm/2019/04/15/idm-teams-win-3-muse-awards-in-student-web-app-competition/) projects such as [Bus Buddy](http://digm.drexel.edu/idm/2019/03/20/bus-buddy/) and [Resonate](http://digm.drexel.edu/idm/2019/03/20/resonate/).
 
